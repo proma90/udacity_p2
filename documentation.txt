@@ -1,0 +1,6 @@
+Kagger website:
+1. https://www.kaggle.com/joniarroba/noshowappointments
+Handicap variable discussion:
+2. https://www.kaggle.com/joniarroba/noshowappointments/discussion/32174
+Seaborn pairplot matrix:
+3. https://seaborn.pydata.org/generated/seaborn.pairplot.html
